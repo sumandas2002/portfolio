@@ -840,7 +840,7 @@ a{
 }
 /* SKILL 3 */
 .skills-wrapper .skills-bar-wrapper .skill3 {
-    width: 30%;
+    width: 75%;
     background-color: #8067F0;
 }
 .skills-wrapper .skills-bar-wrapper .skill3 .skill-count3 {
@@ -1059,9 +1059,9 @@ a{
     padding-inline-start: 15px;
     
 }
-.form-control:focus{
+.form-control:focus {
     border-color: #F05228;
-    box-shadow: 0 0 0 .25rem rgba(253, 0, 25, 0.25);
+    box-shadow: 0 0 0 .25rem rgb(240 82 40);
 }
 .contact-form-wrapper .form-block form .box input::placeholder{
     font-size: 15px;
