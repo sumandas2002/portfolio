@@ -243,9 +243,9 @@ a{
 .banner-content-wrapper .banner-content .about-me-sec .rt-block:active{
     transform: scale(0.96);
 }
-.banner-content-wrapper .banner-content .about-me-sec .lt-block a{
+.banner-content-wrapper .banner-content .about-me-sec .lt-block a {
     color: #fff;
-    font-size: 20px;
+    font-size: 29px;
 }
 .banner-content-wrapper .banner-content .about-me-sec .lt-block a:nth-child(1) i {
     font-size: 24px;
@@ -829,7 +829,7 @@ a{
 }
 /* SKILL 2 */
 .skills-wrapper .skills-bar-wrapper .skill2 {
-    width: 60%;
+    width: 75%;
     background-color: #1CBE59;
 }
 
@@ -840,7 +840,7 @@ a{
 }
 /* SKILL 3 */
 .skills-wrapper .skills-bar-wrapper .skill3 {
-    width: 75%;
+    width: 46%;
     background-color: #8067F0;
 }
 .skills-wrapper .skills-bar-wrapper .skill3 .skill-count3 {
@@ -851,7 +851,7 @@ a{
 
 
 .skills-wrapper .image-block{
-    width: 85%;
+    width: 75%;
 }
 .skills-wrapper .image-block img{
     width: 100%;
