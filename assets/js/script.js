@@ -7,8 +7,8 @@ let typed = new Typed('#element', {
     'Hello, I\'m  UI Designer', 
     'Hello, I\'m  Design Analist'
   ],
-  typeSpeed: 50,
-  backSpeed: 30,
+  typeSpeed: 100,
+  backSpeed: 20,
   smartBackspace: true, // this is a default
   loop: true
 });
@@ -135,8 +135,6 @@ jQuery('.stellarnav ul li a').click(function(){
     'display':'none',
   });
 });
-
-
 
 
 
