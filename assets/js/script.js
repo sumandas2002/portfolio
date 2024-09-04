@@ -109,6 +109,17 @@ $('#all').click(function(){
 $('#web-design2, #web-design3, #web-design4').addClass('d-none');
 });
 
+
+// =============== Logo design =========
+$('#logo-design1').click(function(){
+  
+  $('#logo-design2').removeClass('d-none');
+  });
+
+  $('#all').click(function(){
+    $('#logo-design2').addClass('d-none');
+  });
+
 // =============== web design =========
 // $('#web-design1').click(function(){
 // $('#web-design3').removeClass('d-none');

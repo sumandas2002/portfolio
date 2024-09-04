@@ -531,7 +531,7 @@
         font-size: 24px;
     }
     .animate span {
-        font-size: 40px;
+        font-size: 50px;
     }
     .header-wrapper.sticky {
         padding-block-start: 12px;
@@ -566,6 +566,15 @@
     .header-wrapper header .logo-block a img:nth-child(1) {
         width: 10%;
     }
+    .banner-content-wrapper .banner-content .image-block {
+        width: 81%;
+    }
+    .contact-form-wrapper .form-block .contact-wrapper .box .rt-block span {
+        width: 100%;
+    }
+    .skills-wrapper .image-block{
+        width: 100%;
+    }
 }
 @media only screen and (max-width: 348px){
     .banner-content-wrapper .banner-content .text-block h4 {
@@ -593,6 +602,14 @@
     .banner-content-wrapper .banner-content .text-block #element {
         font-size: 21px;
     }
+    .banner-content-wrapper .banner-content .image-block:nth-child(1) .icon-element .icon:nth-child(3) {
+        left: -28px;
+        top: 79px;
+    }
+    .contact-form-wrapper .form-block .captcha-block .captcha-box {
+        width: 100% !important;
+    }
+     
 }
 
 
